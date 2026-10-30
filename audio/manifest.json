@@ -1,0 +1,275 @@
+{
+  "en|This is Bunny. Bunny has a red car.": {
+    "file": "audio/en-01.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 1.7B",
+    "text": "This is Bunny. Bunny has a red car.",
+    "language": "en"
+  },
+  "zh|下午，小兔在地毯上玩红色的小汽车。": {
+    "file": "audio/zh-01.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 1.7B",
+    "text": "下午，小兔在地毯上玩红色的小汽车。",
+    "language": "zh"
+  },
+  "zh|收拾玩具时，小兔找不到车了。它先看收纳箱，又看沙发旁边，都没有找到。": {
+    "file": "audio/zh-02.wav",
+    "voice": "Serena 样音克隆",
+    "model": "Noiz 情感引擎-v2",
+    "provider": "Noiz",
+    "text": "收拾玩具时，小兔找不到车了。它先看收纳箱，又看沙发旁边，都没有找到。",
+    "language": "zh",
+    "duration": 7.184671201814059
+  },
+  "zh|它弯下腰，看见桌子下面露出一个红色车轮。原来，小汽车滚到了桌子下面！": {
+    "file": "audio/zh-03.wav",
+    "voice": "Serena 样音克隆",
+    "model": "Noiz 情感引擎-v2",
+    "provider": "Noiz",
+    "text": "它弯下腰，看见桌子下面露出一个红色车轮。原来，小汽车滚到了桌子下面！",
+    "language": "zh",
+    "duration": 8.30185941043084
+  },
+  "zh|按先后顺序，排一排": {
+    "file": "audio/zh-04.wav",
+    "voice": "Serena 样音克隆",
+    "model": "Noiz 情感引擎-v2",
+    "provider": "Noiz",
+    "text": "按先后顺序，排一排",
+    "language": "zh",
+    "duration": 3.219047619047619
+  },
+  "zh|找到桌下的车": {
+    "file": "audio/zh-05.wav",
+    "voice": "Serena 样音克隆",
+    "model": "Noiz 情感引擎-v2",
+    "provider": "Noiz",
+    "text": "找到桌下的车",
+    "language": "zh",
+    "duration": 1.5584580498866214
+  },
+  "zh|在地毯上玩车": {
+    "file": "audio/zh-06.wav",
+    "voice": "Serena 样音克隆",
+    "model": "Noiz 情感引擎-v2",
+    "provider": "Noiz",
+    "text": "在地毯上玩车",
+    "language": "zh",
+    "duration": 1.6885260770975057
+  },
+  "zh|寻找不见的车": {
+    "file": "audio/zh-07.wav",
+    "voice": "Serena 样音克隆",
+    "model": "Noiz 情感引擎-v2",
+    "provider": "Noiz",
+    "text": "寻找不见的车",
+    "language": "zh",
+    "duration": 1.7280272108843537
+  },
+  "zh|什么线索帮助小兔找到了车？": {
+    "file": "audio/zh-08.wav",
+    "voice": "Serena 样音克隆",
+    "model": "Noiz 情感引擎-v2",
+    "provider": "Noiz",
+    "text": "什么线索帮助小兔找到了车？",
+    "language": "zh",
+    "duration": 3.4605895691609976
+  },
+  "zh|桌下露出的红色车轮": {
+    "file": "audio/zh-09.wav",
+    "voice": "Serena 样音克隆",
+    "model": "Noiz 情感引擎-v2",
+    "provider": "Noiz",
+    "text": "桌下露出的红色车轮",
+    "language": "zh",
+    "duration": 3.4927437641723356
+  },
+  "zh|收纳箱的颜色": {
+    "file": "audio/zh-10.wav",
+    "voice": "Serena 样音克隆",
+    "model": "Noiz 情感引擎-v2",
+    "provider": "Noiz",
+    "text": "收纳箱的颜色",
+    "language": "zh",
+    "duration": 1.8090702947845805
+  },
+  "en|Where is the car? Bunny looks in the box.": {
+    "file": "audio/en-02.wav",
+    "voice": "Serena 样音克隆",
+    "model": "Noiz 情感引擎-v2",
+    "provider": "Noiz",
+    "text": "Where is the car? Bunny looks in the box.",
+    "language": "en",
+    "duration": 3.272108843537415
+  },
+  "zh|窗外的蓝天": {
+    "file": "audio/zh-11.wav",
+    "voice": "Serena 样音克隆",
+    "model": "Noiz 情感引擎-v2",
+    "provider": "Noiz",
+    "text": "窗外的蓝天",
+    "language": "zh",
+    "duration": 1.6467573696145126
+  },
+  "zh|小兔是怎样找回书包的？": {
+    "file": "audio/zh-12.wav",
+    "voice": "Serena 样音克隆",
+    "model": "Noiz 情感引擎-v2",
+    "provider": "Noiz",
+    "text": "小兔是怎样找回书包的？",
+    "language": "zh",
+    "duration": 3.4463038548752833
+  },
+  "zh|放下书包 → 寻找 → 找到书包": {
+    "file": "audio/zh-13.wav",
+    "voice": "Serena 样音克隆",
+    "model": "Noiz 情感引擎-v2",
+    "provider": "Noiz",
+    "text": "放下书包 → 寻找 → 找到书包",
+    "language": "zh",
+    "duration": 3.4346938775510205
+  },
+  "zh|找到书包 → 放下书包 → 寻找": {
+    "file": "audio/zh-14.wav",
+    "voice": "Serena 样音克隆",
+    "model": "Noiz 情感引擎-v2",
+    "provider": "Noiz",
+    "text": "找到书包 → 放下书包 → 寻找",
+    "language": "zh",
+    "duration": 3.1908843537414966
+  },
+  "zh|寻找 → 找到书包 → 放下书包": {
+    "file": "audio/zh-15.wav",
+    "voice": "Serena 样音克隆",
+    "model": "Noiz 情感引擎-v2",
+    "provider": "Noiz",
+    "text": "寻找 → 找到书包 → 放下书包",
+    "language": "zh",
+    "duration": 3.7713832199546484
+  },
+  "zh|我先找了书桌，后来在沙发旁找到了我的书。": {
+    "file": "audio/zh-16.wav",
+    "voice": "Serena 样音克隆",
+    "model": "Noiz 情感引擎-v2",
+    "provider": "Noiz",
+    "text": "我先找了书桌，后来在沙发旁找到了我的书。",
+    "language": "zh",
+    "duration": 4.1893424036281175
+  },
+  "en|Where is the car?": {
+    "file": "audio/en-04.wav",
+    "voice": "Serena 样音克隆",
+    "model": "Noiz 情感引擎-v2",
+    "provider": "Noiz",
+    "text": "Where is the car?",
+    "language": "en",
+    "duration": 1.437732426303855
+  },
+  "en|On the table.": {
+    "file": "audio/en-05.wav",
+    "voice": "Serena 样音克隆",
+    "model": "Noiz 情感引擎-v2",
+    "provider": "Noiz",
+    "text": "On the table.",
+    "language": "en",
+    "duration": 1.2520181405895692
+  },
+  "en|Under the table.": {
+    "file": "audio/en-06.wav",
+    "voice": "Serena 样音克隆",
+    "model": "Noiz 情感引擎-v2",
+    "provider": "Noiz",
+    "text": "Under the table.",
+    "language": "en",
+    "duration": 1.3912925170068027
+  },
+  "en|In the box.": {
+    "file": "audio/en-07.wav",
+    "voice": "Serena 样音克隆",
+    "model": "Noiz 情感引擎-v2",
+    "provider": "Noiz",
+    "text": "In the box.",
+    "language": "en",
+    "duration": 1.79718820861678
+  },
+  "en|Where is the ball?": {
+    "file": "audio/en-08.wav",
+    "voice": "Serena 样音克隆",
+    "model": "Noiz 情感引擎-v2",
+    "provider": "Noiz",
+    "text": "Where is the ball?",
+    "language": "en",
+    "duration": 2.8134240362811793
+  },
+  "en|Where is the car now?": {
+    "file": "audio/en-09.wav",
+    "voice": "Serena 样音克隆",
+    "model": "Noiz 情感引擎-v2",
+    "provider": "Noiz",
+    "text": "Where is the car now?",
+    "language": "en",
+    "duration": 1.8282539682539682
+  },
+  "en|under the table": {
+    "file": "audio/en-06.wav",
+    "voice": "Serena 样音克隆",
+    "model": "Noiz 情感引擎-v2",
+    "provider": "Noiz",
+    "text": "under the table",
+    "language": "en",
+    "duration": 1.3912925170068027,
+    "reusedFrom": "en-06",
+    "reuseReason": "Identical spoken words; case and terminal punctuation only"
+  },
+  "en|in the box": {
+    "file": "audio/en-07.wav",
+    "voice": "Serena 样音克隆",
+    "model": "Noiz 情感引擎-v2",
+    "provider": "Noiz",
+    "text": "in the box",
+    "language": "en",
+    "duration": 1.79718820861678,
+    "reusedFrom": "en-07",
+    "reuseReason": "Identical spoken words; case and terminal punctuation only"
+  },
+  "en|on the table": {
+    "file": "audio/en-05.wav",
+    "voice": "Serena 样音克隆",
+    "model": "Noiz 情感引擎-v2",
+    "provider": "Noiz",
+    "text": "on the table",
+    "language": "en",
+    "duration": 1.2520181405895692,
+    "reusedFrom": "en-05",
+    "reuseReason": "Identical spoken words; case and terminal punctuation only"
+  },
+  "en|Where is the car? It is under the table.": {
+    "file": "audio/en-10.wav",
+    "voice": "Serena 样音克隆",
+    "model": "Noiz 情感引擎-v2",
+    "provider": "Noiz",
+    "text": "Where is the car? It is under the table.",
+    "language": "en",
+    "duration": 2.912199546485261
+  },
+  "zh|新的故事：先把书包放在长椅上，后来寻找，最后回到长椅旁找到。请选择正确的先后顺序。": {
+    "file": "audio/zh-17.wav",
+    "voice": "Serena 样音克隆",
+    "model": "Noiz 情感引擎-v2",
+    "provider": "Noiz",
+    "text": "新的故事：先把书包放在长椅上，后来寻找，最后回到长椅旁找到。请选择正确的先后顺序。",
+    "language": "zh",
+    "duration": 9.149433106575964
+  },
+  "en|The car is under the table! Bunny found it.": {
+    "file": "audio/en-03-serena-local.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "The car is under the table! Bunny found it.",
+    "language": "en",
+    "contentVerified": true,
+    "verifiedTranscript": "The car is under the table. Bunny found it."
+  }
+}

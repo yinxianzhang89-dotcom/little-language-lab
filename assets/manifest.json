@@ -1,0 +1,95 @@
+[
+  {
+    "file": "backpack.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "alpha_range": null
+  },
+  {
+    "file": "dodo.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ]
+  },
+  {
+    "file": "found.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "alpha_range": null
+  },
+  {
+    "file": "play.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "alpha_range": null
+  },
+  {
+    "file": "reading.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ]
+  },
+  {
+    "file": "reward.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ]
+  },
+  {
+    "file": "search.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "alpha_range": null
+  },
+  {
+    "file": "thinking.png",
+    "size": [
+      1024,
+      1536
+    ],
+    "mode": "RGBA",
+    "alpha_range": [
+      0,
+      254
+    ]
+  },
+  {
+    "file": "transfer.png",
+    "size": [
+      1536,
+      1024
+    ],
+    "mode": "RGB",
+    "alpha_range": null
+  }
+]
