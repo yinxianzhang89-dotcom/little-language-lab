@@ -271,5 +271,1105 @@
     "language": "en",
     "contentVerified": true,
     "verifiedTranscript": "The car is under the table. Bunny found it."
+  },
+  "en|Bunny has a little teddy bear.": {
+    "file": "audio/v3-e1baef645b36.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Bunny has a little teddy bear.",
+    "language": "en",
+    "duration": 2.32,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Where is Teddy? Bunny looks next to the box.": {
+    "file": "audio/v3-a224dc45e6bf.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Where is Teddy? Bunny looks next to the box.",
+    "language": "en",
+    "duration": 3.84,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Teddy is behind the sofa! Bunny found Teddy.": {
+    "file": "audio/v3-8bf55b276945.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Teddy is behind the sofa! Bunny found Teddy.",
+    "language": "en",
+    "duration": 3.92,
+    "verification": "Whisper small.en normalized transcript"
+  },
+  "en|The toys are on the floor. Let us tidy up!": {
+    "file": "audio/v3-f0345ef2f52c.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "The toys are on the floor. Let us tidy up!",
+    "language": "en",
+    "duration": 3.52,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Put the ball in the box. Bunny puts it in.": {
+    "file": "audio/v3-0714ca8e626f.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Put the ball in the box. Bunny puts it in.",
+    "language": "en",
+    "duration": 3.44,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Put the car on the table. The room is tidy now.": {
+    "file": "audio/v3-6db9e65946ad.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Put the car on the table. The room is tidy now.",
+    "language": "en",
+    "duration": 4.24,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Mia has a picnic basket. The basket is empty.": {
+    "file": "audio/v3-3a6222026b1a.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Mia has a picnic basket. The basket is empty.",
+    "language": "en",
+    "duration": 4.48,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|I have an apple and a banana. They go in the basket.": {
+    "file": "audio/v3-c4c51ee1d79d.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "I have an apple and a banana. They go in the basket.",
+    "language": "en",
+    "duration": 4.24,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|I have some bread, too. We are ready for a picnic!": {
+    "file": "audio/v3-0351bc62a9cf.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "I have some bread, too. We are ready for a picnic!",
+    "language": "en",
+    "duration": 4.48,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Mia and Leo are having a picnic. Leo has some apples.": {
+    "file": "audio/v3-962669c8ce7a.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Mia and Leo are having a picnic. Leo has some apples.",
+    "language": "en",
+    "duration": 5.36,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|I would like an apple, please, says Mia. Leo shares an apple.": {
+    "file": "audio/v3-4c73c538508a.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "I would like an apple, please, says Mia. Leo shares an apple.",
+    "language": "en",
+    "duration": 5.2,
+    "verification": "Whisper small.en normalized transcript"
+  },
+  "en|Thank you! Mia and Leo enjoy their apples together.": {
+    "file": "audio/v3-759d504a1438.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Thank you! Mia and Leo enjoy their apples together.",
+    "language": "en",
+    "duration": 4.96,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|The basket is on the table. Mia has an apple and a banana.": {
+    "file": "audio/v3-31204a1150f9.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "The basket is on the table. Mia has an apple and a banana.",
+    "language": "en",
+    "duration": 5.2,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Put the bread in the basket. Now we have enough food.": {
+    "file": "audio/v3-27e8199d5d39.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Put the bread in the basket. Now we have enough food.",
+    "language": "en",
+    "duration": 3.92,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|I would like an apple, please. Thank you! It is a happy picnic.": {
+    "file": "audio/v3-634d573216b3.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "I would like an apple, please. Thank you! It is a happy picnic.",
+    "language": "en",
+    "duration": 5.2,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|behind the sofa": {
+    "file": "audio/v3-38f5cf4bd0ce.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "behind the sofa",
+    "language": "en",
+    "duration": 1.68,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|next to the chair": {
+    "file": "audio/v3-b67ec9a6d525.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "next to the chair",
+    "language": "en",
+    "duration": 1.76,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Teddy is behind the sofa.": {
+    "file": "audio/v3-292d97e00816.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Teddy is behind the sofa.",
+    "language": "en",
+    "duration": 2.16,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Where is Teddy?": {
+    "file": "audio/v3-404e06e70a0d.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Where is Teddy?",
+    "language": "en",
+    "duration": 1.44,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Behind the sofa.": {
+    "file": "audio/v3-e56484c8d47b.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Behind the sofa.",
+    "language": "en",
+    "duration": 1.68,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Where does Bunny look first?": {
+    "file": "audio/v3-adef93553595.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Where does Bunny look first?",
+    "language": "en",
+    "duration": 2.32,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Next to the box.": {
+    "file": "audio/v3-e8c0da820504.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Next to the box.",
+    "language": "en",
+    "duration": 1.68,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|In the basket.": {
+    "file": "audio/v3-10b5c353e735.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "In the basket.",
+    "language": "en",
+    "duration": 1.44,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Where is Teddy now?": {
+    "file": "audio/v3-8065be0c7b58.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Where is Teddy now?",
+    "language": "en",
+    "duration": 1.92,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Under the chair.": {
+    "file": "audio/v3-b839f6219a2e.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Under the chair.",
+    "language": "en",
+    "duration": 1.52,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Next to the chair.": {
+    "file": "audio/v3-01b113b72782.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Next to the chair.",
+    "language": "en",
+    "duration": 1.68,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Look at the sofa. Where is Teddy?": {
+    "file": "audio/v3-d7431f5ca0a3.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Look at the sofa. Where is Teddy?",
+    "language": "en",
+    "duration": 3.04,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|On the sofa.": {
+    "file": "audio/v3-50bb1402db11.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "On the sofa.",
+    "language": "en",
+    "duration": 1.44,
+    "verification": "Whisper small.en normalized transcript"
+  },
+  "en|In the sofa.": {
+    "file": "audio/v3-0894a4d7c8af.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "In the sofa.",
+    "language": "en",
+    "duration": 1.44,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Look at the new picture. Where is Teddy?": {
+    "file": "audio/v3-0d9addaadf1e.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Look at the new picture. Where is Teddy?",
+    "language": "en",
+    "duration": 3.36,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|On the chair.": {
+    "file": "audio/v3-a56f86659555.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "On the chair.",
+    "language": "en",
+    "duration": 1.44,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Which word means 在后面?": {
+    "file": "audio/v3-32f0263f262b.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Which word means 在后面?",
+    "language": "en",
+    "duration": 2.64,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Behind.": {
+    "file": "audio/v3-1e998f8312d7.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Behind.",
+    "language": "en",
+    "duration": 1.36,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|In.": {
+    "file": "audio/v3-553cdd1cf61c.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "In.",
+    "language": "en",
+    "duration": 0.88,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|On.": {
+    "file": "audio/v3-de08af5c5dd2.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "On.",
+    "language": "en",
+    "duration": 0.96,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Put the ball in the box.": {
+    "file": "audio/v3-5b41f4d761f2.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Put the ball in the box.",
+    "language": "en",
+    "duration": 1.84,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Put the car on the table.": {
+    "file": "audio/v3-980584f823ca.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Put the car on the table.",
+    "language": "en",
+    "duration": 2.16,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Where is the ball now?": {
+    "file": "audio/v3-a3d7ace6167a.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Where is the ball now?",
+    "language": "en",
+    "duration": 1.84,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Look at the new picture. Where is the car?": {
+    "file": "audio/v3-27be7b0a43ff.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Look at the new picture. Where is the car?",
+    "language": "en",
+    "duration": 3.6,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Which instruction matches the ball?": {
+    "file": "audio/v3-6c2541edd7c5.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Which instruction matches the ball?",
+    "language": "en",
+    "duration": 2.48,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Put the ball on the table.": {
+    "file": "audio/v3-194311a52308.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Put the ball on the table.",
+    "language": "en",
+    "duration": 2.0,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Put the ball under the chair.": {
+    "file": "audio/v3-320096040021.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Put the ball under the chair.",
+    "language": "en",
+    "duration": 2.72,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Which instruction matches the car?": {
+    "file": "audio/v3-51f0af500395.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Which instruction matches the car?",
+    "language": "en",
+    "duration": 2.72,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Put the car in the box.": {
+    "file": "audio/v3-f50a215c758d.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Put the car in the box.",
+    "language": "en",
+    "duration": 1.84,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Put the car behind the sofa.": {
+    "file": "audio/v3-e9d786fc548d.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Put the car behind the sofa.",
+    "language": "en",
+    "duration": 2.16,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Which word means 在下面?": {
+    "file": "audio/v3-d7d8302f495d.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Which word means 在下面?",
+    "language": "en",
+    "duration": 2.4,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Under.": {
+    "file": "audio/v3-fde07369c983.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Under.",
+    "language": "en",
+    "duration": 1.2,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|an apple": {
+    "file": "audio/v3-ce4db0835490.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "an apple",
+    "language": "en",
+    "duration": 1.6,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|a banana": {
+    "file": "audio/v3-fe8a84190d9d.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "a banana",
+    "language": "en",
+    "duration": 1.28,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|some bread": {
+    "file": "audio/v3-3d969c400e79.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "some bread",
+    "language": "en",
+    "duration": 1.36,
+    "verification": "Whisper small.en normalized transcript"
+  },
+  "en|I have an apple.": {
+    "file": "audio/v3-a619fb551e2e.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "I have an apple.",
+    "language": "en",
+    "duration": 1.76,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|What is in the basket?": {
+    "file": "audio/v3-e18aa24b733b.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "What is in the basket?",
+    "language": "en",
+    "duration": 1.84,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|An apple.": {
+    "file": "audio/v3-4412e964447d.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "An apple.",
+    "language": "en",
+    "duration": 1.2,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|A ball.": {
+    "file": "audio/v3-1978a114ee46.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "A ball.",
+    "language": "en",
+    "duration": 1.12,
+    "verification": "Whisper small.en normalized transcript"
+  },
+  "en|A teddy bear.": {
+    "file": "audio/v3-2a0a9ec368ab.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "A teddy bear.",
+    "language": "en",
+    "duration": 1.68,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|What does Mia add last?": {
+    "file": "audio/v3-edb7ed5fa728.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "What does Mia add last?",
+    "language": "en",
+    "duration": 2.08,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Some bread.": {
+    "file": "audio/v3-53b8ecae68df.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Some bread.",
+    "language": "en",
+    "duration": 1.36,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|A toy car.": {
+    "file": "audio/v3-3ddaecc573c1.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "A toy car.",
+    "language": "en",
+    "duration": 1.6,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|A book.": {
+    "file": "audio/v3-d7f9fdf1b5b3.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "A book.",
+    "language": "en",
+    "duration": 1.04,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Look at the new basket. What is in it?": {
+    "file": "audio/v3-6891f610f262.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Look at the new basket. What is in it?",
+    "language": "en",
+    "duration": 3.12,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|A banana.": {
+    "file": "audio/v3-8ab51fd760fe.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "A banana.",
+    "language": "en",
+    "duration": 1.44,
+    "verification": "Whisper small.en normalized transcript"
+  },
+  "en|Which word means 苹果?": {
+    "file": "audio/v3-6eed5b9a900d.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Which word means 苹果?",
+    "language": "en",
+    "duration": 2.16,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Apple.": {
+    "file": "audio/v3-2a3b5d514a14.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Apple.",
+    "language": "en",
+    "duration": 0.96,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Ball.": {
+    "file": "audio/v3-b4d0d70272f9.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Ball.",
+    "language": "en",
+    "duration": 1.04,
+    "verification": "Whisper small.en normalized transcript"
+  },
+  "en|Chair.": {
+    "file": "audio/v3-5e3a22992097.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Chair.",
+    "language": "en",
+    "duration": 1.12,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Which word means 香蕉?": {
+    "file": "audio/v3-8e6cbbf157e1.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Which word means 香蕉?",
+    "language": "en",
+    "duration": 2.16,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Bread.": {
+    "file": "audio/v3-976ca724e0bc.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Bread.",
+    "language": "en",
+    "duration": 0.96,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Banana.": {
+    "file": "audio/v3-5b557981de88.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Banana.",
+    "language": "en",
+    "duration": 1.28,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Basket.": {
+    "file": "audio/v3-b8bcd8acbe08.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Basket.",
+    "language": "en",
+    "duration": 1.36,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|How can Mia introduce an apple?": {
+    "file": "audio/v3-bdf2c2e60f97.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "How can Mia introduce an apple?",
+    "language": "en",
+    "duration": 2.72,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Thank you.": {
+    "file": "audio/v3-30f441b7df3a.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Thank you.",
+    "language": "en",
+    "duration": 1.2,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|I would like an apple, please.": {
+    "file": "audio/v3-9a2fb6e1d6b4.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "I would like an apple, please.",
+    "language": "en",
+    "duration": 2.4,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|I would like an apple, please. Thank you.": {
+    "file": "audio/v3-2ee49b088145.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "I would like an apple, please. Thank you.",
+    "language": "en",
+    "duration": 3.2,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|What would Mia like?": {
+    "file": "audio/v3-dfd6dcab3599.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "What would Mia like?",
+    "language": "en",
+    "duration": 1.84,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|What does Mia say after getting the apple?": {
+    "file": "audio/v3-1f4e948725ac.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "What does Mia say after getting the apple?",
+    "language": "en",
+    "duration": 2.72,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Mia points to the banana. What can Mia say?": {
+    "file": "audio/v3-4aca041428e0.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Mia points to the banana. What can Mia say?",
+    "language": "en",
+    "duration": 4.24,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|I would like a banana, please.": {
+    "file": "audio/v3-e98bfef14b4a.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "I would like a banana, please.",
+    "language": "en",
+    "duration": 2.4,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|I have a chair.": {
+    "file": "audio/v3-c33c9f340d28.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "I have a chair.",
+    "language": "en",
+    "duration": 1.44,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Which word makes a request polite?": {
+    "file": "audio/v3-d391fd5ffbbc.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Which word makes a request polite?",
+    "language": "en",
+    "duration": 2.32,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Please.": {
+    "file": "audio/v3-0597c4e21988.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Please.",
+    "language": "en",
+    "duration": 1.04,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Box.": {
+    "file": "audio/v3-b4ceaca24ccc.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Box.",
+    "language": "en",
+    "duration": 1.04,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|How do we thank a friend?": {
+    "file": "audio/v3-c4f8b99eba93.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "How do we thank a friend?",
+    "language": "en",
+    "duration": 2.24,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Which food is yellow in the new picture?": {
+    "file": "audio/v3-f79ed66fff16.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Which food is yellow in the new picture?",
+    "language": "en",
+    "duration": 2.96,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|The basket is on the table.": {
+    "file": "audio/v3-79d0f84bc56a.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "The basket is on the table.",
+    "language": "en",
+    "duration": 2.24,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|I have some bread.": {
+    "file": "audio/v3-df729c6d680a.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "I have some bread.",
+    "language": "en",
+    "duration": 1.6,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|I have some bread. The basket is on the table. Thank you.": {
+    "file": "audio/v3-8e34a96d1b80.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "I have some bread. The basket is on the table. Thank you.",
+    "language": "en",
+    "duration": 4.8,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Where is the basket?": {
+    "file": "audio/v3-8eb94ac06ae5.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Where is the basket?",
+    "language": "en",
+    "duration": 1.84,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|What goes in the basket?": {
+    "file": "audio/v3-c25b9f03a16c.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "What goes in the basket?",
+    "language": "en",
+    "duration": 1.92,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|A chair.": {
+    "file": "audio/v3-e205d5ef724d.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "A chair.",
+    "language": "en",
+    "duration": 1.28,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Look at the new picture. Where is the ball?": {
+    "file": "audio/v3-5d70f6758bfd.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Look at the new picture. Where is the ball?",
+    "language": "en",
+    "duration": 3.12,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|How can Mia ask for an apple?": {
+    "file": "audio/v3-e32674f9e30c.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "How can Mia ask for an apple?",
+    "language": "en",
+    "duration": 2.64,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Put the chair in the box.": {
+    "file": "audio/v3-28a1489aa365.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Put the chair in the box.",
+    "language": "en",
+    "duration": 2.08,
+    "verification": "Whisper small.en normalized transcript"
+  },
+  "en|Which instruction matches the bread?": {
+    "file": "audio/v3-6c6ecd1780fe.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Which instruction matches the bread?",
+    "language": "en",
+    "duration": 2.56,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Put the bread in the basket.": {
+    "file": "audio/v3-d14cb09f2b15.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Put the bread in the basket.",
+    "language": "en",
+    "duration": 2.0,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Put the bread behind the sofa.": {
+    "file": "audio/v3-6daf6f76a9a8.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Put the bread behind the sofa.",
+    "language": "en",
+    "duration": 2.24,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|Put the bread under the chair.": {
+    "file": "audio/v3-dbf578787b01.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "Put the bread under the chair.",
+    "language": "en",
+    "duration": 2.56,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|What can Mia say after a friend helps?": {
+    "file": "audio/v3-d9ac63b65372.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "What can Mia say after a friend helps?",
+    "language": "en",
+    "duration": 3.28,
+    "verification": "Whisper base normalized transcript"
+  },
+  "en|A table.": {
+    "file": "audio/v3-6f993d08e611.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "A table.",
+    "language": "en",
+    "duration": 1.28,
+    "verification": "Whisper base normalized transcript"
+  },
+  "zh|故事最后发生了什么？": {
+    "file": "audio/v3-565a178549d0.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "故事最后发生了什么？",
+    "language": "zh",
+    "duration": 1.92,
+    "verification": "Whisper base normalized transcript"
+  },
+  "zh|小兔找到了车": {
+    "file": "audio/v3-21b17ebc479a.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "小兔找到了车",
+    "language": "zh",
+    "duration": 1.44,
+    "verification": "Whisper base normalized transcript"
+  },
+  "zh|小兔开始玩车": {
+    "file": "audio/v3-8ce53b70d68e.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "小兔开始玩车",
+    "language": "zh",
+    "duration": 2.0,
+    "verification": "Whisper base normalized transcript"
+  },
+  "zh|小兔打开窗户": {
+    "file": "audio/v3-4579ad5cb5cc.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "小兔打开窗户",
+    "language": "zh",
+    "duration": 1.6,
+    "verification": "Whisper base normalized transcript"
+  },
+  "zh|小兔找到车的线索是什么？": {
+    "file": "audio/v3-2a2839f899e2.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "小兔找到车的线索是什么？",
+    "language": "zh",
+    "duration": 2.48,
+    "verification": "Whisper base normalized transcript"
+  },
+  "zh|红色车轮": {
+    "file": "audio/v3-33cf6d79426f.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "红色车轮",
+    "language": "zh",
+    "duration": 2.16,
+    "verification": "Whisper base normalized transcript"
+  },
+  "zh|收纳箱颜色": {
+    "file": "audio/v3-ef678e9e4d8e.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "收纳箱颜色",
+    "language": "zh",
+    "duration": 2.0,
+    "verification": "Whisper base normalized transcript"
+  },
+  "zh|窗外蓝天": {
+    "file": "audio/v3-1fe624267771.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "窗外蓝天",
+    "language": "zh",
+    "duration": 1.68,
+    "verification": "Whisper base normalized transcript"
+  },
+  "zh|讲述寻找经历时，可以怎样开始？": {
+    "file": "audio/v3-4cade4cccf68.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "讲述寻找经历时，可以怎样开始？",
+    "language": "zh",
+    "duration": 3.28,
+    "verification": "Whisper base normalized transcript"
+  },
+  "zh|我先去了……": {
+    "file": "audio/v3-3e5a23f8651b.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "我先去了……",
+    "language": "zh",
+    "duration": 1.44,
+    "verification": "Whisper base normalized transcript"
+  },
+  "zh|故事结束了": {
+    "file": "audio/v3-e5850cf132da.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "故事结束了",
+    "language": "zh",
+    "duration": 1.52,
+    "verification": "Whisper base normalized transcript"
+  },
+  "zh|我什么也不说": {
+    "file": "audio/v3-acc62eab8c45.wav",
+    "voice": "Serena",
+    "model": "Qwen3-TTS CustomVoice 0.6B",
+    "provider": "Qwen local",
+    "text": "我什么也不说",
+    "language": "zh",
+    "duration": 1.84,
+    "verification": "Whisper base normalized transcript"
   }
 }
