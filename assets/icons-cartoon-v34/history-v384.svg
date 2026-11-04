@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" fill="none">
+<defs>
+ <linearGradient id="bamboo" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#e7b777"/><stop offset=".48" stop-color="#f7d69c"/><stop offset="1" stop-color="#d49b59"/></linearGradient>
+ <linearGradient id="roll" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#c28b50"/><stop offset=".3" stop-color="#edc18a"/><stop offset=".65" stop-color="#f9dbab"/><stop offset="1" stop-color="#ce995f"/></linearGradient>
+ <linearGradient id="face" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#f4d5a2"/><stop offset="1" stop-color="#dfb47a"/></linearGradient>
+</defs>
+<path d="M27 49 127 32v90L32 139q-8-2-8-12V59Z" fill="#b6804e" opacity=".19"/>
+<path d="m30 43 96-16v93l-96 17Z" fill="#b9844e"/>
+<path d="m32 42 10-1.7v91l-10 1.7Z" fill="url(#bamboo)" stroke="#cd9b62" stroke-width=".7" stroke-linejoin="round"/><path d="m34 47v78" stroke="#fff0ce" stroke-width="1" opacity=".45" stroke-linecap="round"/><path d="m44 40 10-1.7v91l-10 1.7Z" fill="url(#bamboo)" stroke="#cd9b62" stroke-width=".7" stroke-linejoin="round"/><path d="m46 45v78" stroke="#fff0ce" stroke-width="1" opacity=".45" stroke-linecap="round"/><path d="m56 38 10-1.7v91l-10 1.7Z" fill="url(#bamboo)" stroke="#cd9b62" stroke-width=".7" stroke-linejoin="round"/><path d="m58 43v78" stroke="#fff0ce" stroke-width="1" opacity=".45" stroke-linecap="round"/><path d="m68 36 10-1.7v91l-10 1.7Z" fill="url(#bamboo)" stroke="#cd9b62" stroke-width=".7" stroke-linejoin="round"/><path d="m70 41v78" stroke="#fff0ce" stroke-width="1" opacity=".45" stroke-linecap="round"/><path d="m80 34 10-1.7v91l-10 1.7Z" fill="url(#bamboo)" stroke="#cd9b62" stroke-width=".7" stroke-linejoin="round"/><path d="m82 39v78" stroke="#fff0ce" stroke-width="1" opacity=".45" stroke-linecap="round"/><path d="m92 32 10-1.7v91l-10 1.7Z" fill="url(#bamboo)" stroke="#cd9b62" stroke-width=".7" stroke-linejoin="round"/><path d="m94 37v78" stroke="#fff0ce" stroke-width="1" opacity=".45" stroke-linecap="round"/><path d="m104 30 10-1.7v91l-10 1.7Z" fill="url(#bamboo)" stroke="#cd9b62" stroke-width=".7" stroke-linejoin="round"/><path d="m106 35v78" stroke="#fff0ce" stroke-width="1" opacity=".45" stroke-linecap="round"/><path d="m30 64 95-16m-95 65 95-16" stroke="#9c6946" stroke-width="3" stroke-linecap="round"/>
+<path d="m45 74 5-.8m-2.5 0v19m-4-11 8-1.3m-7 11 7-1.2M69 68l5 4m-8 2 10-1.7m-5-2v20m-6-5 12-2M92 66v18m-4-12 9-1.5m-8 10 8-1.3" stroke="#ab794a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
+<!-- 卷起的简册边缘，圆形卷口与柔和厚度。 -->
+<path d="M20 44q0-7 10-9t12 5v88q-1 8-11 10t-11-6Z" fill="url(#roll)"/>
+<ellipse cx="31" cy="40" rx="11" ry="7" transform="rotate(-10 31 40)" fill="#f7dbb1"/>
+<ellipse cx="31" cy="40" rx="6.5" ry="3.8" transform="rotate(-10 31 40)" fill="#c6925e"/>
+<path d="M27 40q3-3 7-1t-2 3" stroke="#f6d4a4" stroke-width="1.7" stroke-linecap="round"/>
+<path d="M117 28q1-8 11-9t12 6v89q-2 9-12 11t-11-6Z" fill="url(#roll)"/>
+<ellipse cx="129" cy="25" rx="11" ry="7" transform="rotate(-10 129 25)" fill="#f8dfb7"/>
+<ellipse cx="129" cy="25" rx="6.5" ry="3.8" transform="rotate(-10 129 25)" fill="#c6925e"/>
+<path d="M125 25q3-3 7-1t-2 3" stroke="#f6d4a4" stroke-width="1.7" stroke-linecap="round"/>
+<path d="M23 61q9 5 17-1m80-16q9 5 17-1M23 112q9 5 17-1m80-16q9 5 17-1" stroke="#a77950" stroke-width="2.6" stroke-linecap="round"/>
+</svg>
